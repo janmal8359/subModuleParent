@@ -5,6 +5,3 @@
 [submodule "subModuleChild1"]
 	path = subModuleChild1
 	url = https://github.com/janmal8359/subModuleChild1
-[submodule "n2_data"]
-	path = n2_data
-	url = http://dev-team.snowpipe.net:8080/scm/git/n2_data
