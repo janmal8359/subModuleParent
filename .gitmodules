@@ -1,7 +1,8 @@
 [submodule "subModuleChild0"]
 	path = subModuleChild0
 	url = https://github.com/janmal8359/subModuleChild0
-	branch = main
+	branch = ver2
 [submodule "subModuleChild1"]
 	path = subModuleChild1
 	url = https://github.com/janmal8359/subModuleChild1
+	branch = main
